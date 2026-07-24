@@ -1,0 +1,9 @@
+AI SETUP
+
+1. Open Netlify and select the VicterV site.
+2. Go to Site configuration > Environment variables.
+3. Add a variable named OPENROUTER_API_KEY.
+4. Paste your API key as the value.
+5. Save, then redeploy the site.
+
+Do not paste the key into page.tsx, route.ts, .env.example, or any public file.
